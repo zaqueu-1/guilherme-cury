@@ -183,44 +183,6 @@ body {
   font-size: 0.95rem;
 }
 
-@media only screen and (max-width:550px) {
-  .bio-block {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .text-block p {
-    font-size: 0.85rem;
-    margin-top: -.25rem;
-  }
-
-  .text-block {
-    margin-top: -.85rem;
-  }
-
-  .links{
-    gap: 0;
-  }
-
-  .link {
-    width: 95%;
-  }
-
-  .link:last-child {
-    margin-top: -3rem;
-  }
-
-  .img {
-    width: 100%
-  }
-
-  .img:hover {
-    transform: scale(1.03);
-    filter: contrast(0.85);
-  }
-  
-}
-
 .patients-container {
   display: flex;
   align-items: center;
@@ -258,12 +220,48 @@ body {
   opacity: .7;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+@media only screen and (max-width:550px) {
+  .bio-block {
+    flex-direction: column;
+    align-items: center;
   }
-  body {
-    color: white;
-    background: rgb(0, 0, 0);
+
+  .text-block p {
+    font-size: 0.85rem;
+    margin-top: -.25rem;
   }
+
+  .text-block {
+    margin-top: -.85rem;
+  }
+
+  .links{
+    gap: 0;
+  }
+
+  .link {
+    width: 95%;
+  }
+
+  .link:last-child {
+    margin-top: -3rem;
+  }
+
+  .img {
+    width: 100%
+  }
+
+  .img:hover {
+    transform: scale(1.03);
+    filter: contrast(0.85);
+  }
+
+  .parceiros {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0rem;
+  }
+  
 }
