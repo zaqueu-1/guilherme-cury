@@ -245,6 +245,19 @@ body {
   filter: grayscale(0.2);
 }
 
+.parceiros {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.img2 {
+  width: 200px;
+  height: 120px;
+  opacity: .7;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
