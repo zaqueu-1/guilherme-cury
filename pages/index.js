@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Vanderlei Moraes</title>
-        <meta name="description" content="Vanderlei Moraes | Consultoria Esportiva" />
+        <title>Guilherme Cury</title>
+        <meta name="description" content="Guilherme Aziz Cury | Consultoria" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

@@ -19,7 +19,7 @@ body {
   z-index: -1;
   top: 0;
   left: 0;
-  position:fixed;
+  position: fixed;
   filter: brightness(0.4) grayscale(70%);
 }
 
@@ -82,6 +82,7 @@ body {
   font-size: 2.5rem;
   font-weight: 500;
   color: white;
+  text-align: center;
 }
 
 .header p {

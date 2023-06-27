@@ -7,14 +7,14 @@ function Bio() {
       <div className='bio-container'>
         <div className="bio-block">
           <div className="image-block">
-              <Image src='/images/avatar-dl.png' className='bio-img' height='180' width='180' />
-              <p id='subtitle'>Vanderlei Moraes</p>
+              <Image src='/images/bioimg.png' className='bio-img' height='180' width='180' />
+              <p id='subtitle'>Guilherme Aziz Cury</p>
               <p id='subtitle-small'>Bodybuilding Coach</p>
           </div>
           <div className="text-block">
-              <p>Minha história no mundo da musculação deu início em 2017. </p>
-              <p>Treinar faz parte da minha rotina e se tornou minha filosofia de vida. Sempre fui apaixonado pelo assunto e acompanhava atletas dia após dia. Passava horas lendo livros da área, assistindo vídeos como entretenimento e foi aí que tudo começou.</p>
-              <p>Da experiência de treino veio o amor pela profissão. Com toda essa trajetória me apaixonei pela Educação Física na área do Bodybuilding e decidi reunir todo meu conhecimento para evitar que você cometa os mesmos erros que eu.</p>
+              <p>Minha jornada na musculação começou há 16 anos, quando comecei a treinar. Como profissional, comecei a atuar na área em 2017, oferecendo atendimentos. Hoje, temos orgulho em dizer que já transformamos mais de 5 mil vidas. </p>
+              <p>O objetivo da nossa consultoria é realmente alinhar a dieta à sua vida, e não o contrário. Trabalhamos com qualquer tipo de objetivo, seja ele emagrecimento, aumento de massa magra, suprir carências nutricionais e até mesmo fornecer preparação completa para atletas. </p>
+              <p>Independentemente do seu objetivo, nós podemos e VAMOS te ajudar. Nosso foco é vender saúde e entregar resultados reais.</p>
           </div>
         </div>
       </div>
